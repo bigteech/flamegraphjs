@@ -1,6 +1,6 @@
 const addOne = (x) => {
     return x +1; 
-}
+};
 
 
 const sum = (x) => {
@@ -9,12 +9,12 @@ const sum = (x) => {
         ret += addOne(x); 
     }
     return ret;
-}
+};
 
 
 window.main = () => {
     sum(22);
     const m = window.flamegraphjs.normalOutput();
     document.getElementById('main').value = m;
-}
+};
 
