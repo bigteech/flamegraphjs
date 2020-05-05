@@ -5,6 +5,501 @@ CPU           ID            FUNCTION:NAME
 
         example.js`anonymous
         example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+        example.js`anonymous
+        example.js`anonymous
+        example.js`anonymous
+        0
+        
+        example.js`anonymous
+        example.js`anonymous
         1
         
 

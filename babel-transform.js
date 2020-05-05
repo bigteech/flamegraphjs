@@ -53,7 +53,8 @@ const trans = (path, state, api) => {
         return;
     }
     path.node.done = 1;
-    path.replaceWith(getCollectAst(api.types, state.file.opts.filename, path.node));
+    const start = path.node.loc.start;
+    path.replaceWith(getCollectAst(api.types, state.file.opts.filename + ` ${start.line}:${start.column}`, path.node));
 
 };
 

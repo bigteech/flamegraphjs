@@ -20,7 +20,7 @@ ${ret}
     const collect = (moduleName) => {
         return (fn) => {
             return function() {
-                const name = moduleName + "`" + (fn.name || 'anonymous');
+                const name = moduleName + " " + (fn.name || 'anonymous');
                 tmp.push(name);
                 performance.mark(name + 'start');
                 const ret = fn(...arguments);

@@ -1,4 +1,120 @@
-var main3 = window.flamegraphjs.collect('example.js')(function main3() {
-    console.log('22l');
-});
+
+CPU           ID            FUNCTION:NAME
+
+
+
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 1:15 anonymous
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
+        example.js 6:12 anonymous
+        example.js 15:14 anonymous
+        1
+        
 

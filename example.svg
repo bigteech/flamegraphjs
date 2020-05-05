@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" width="1200" height="118" onload="init(evt)" viewBox="0 0 1200 118" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="1200" height="134" onload="init(evt)" viewBox="0 0 1200 134" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Flame graph stack visualization. See https://github.com/brendangregg/FlameGraph for latest version, and http://www.brendangregg.com/flamegraphs.html for examples. -->
 <!-- NOTES:  -->
 <defs>
@@ -364,25 +364,29 @@
 	}
 ]]>
 </script>
-<rect x="0.0" y="0" width="1200.0" height="118.0" fill="url(#background)"  />
+<rect x="0.0" y="0" width="1200.0" height="134.0" fill="url(#background)"  />
 <text id="title" x="600.00" y="24" >Flame Graph</text>
-<text id="details" x="10.00" y="101" > </text>
+<text id="details" x="10.00" y="117" > </text>
 <text id="unzoom" x="10.00" y="24" class="hide">Reset Zoom</text>
 <text id="search" x="1090.00" y="24" >Search</text>
 <text id="ignorecase" x="1174.00" y="24" >ic</text>
-<text id="matched" x="1090.00" y="101" > </text>
+<text id="matched" x="1090.00" y="117" > </text>
 <g id="frames">
 <g >
-<title>example.js`anonymous (1 samples, 100.00%)</title><rect x="10.0" y="53" width="1180.0" height="15.0" fill="rgb(254,191,51)" rx="2" ry="2" />
-<text  x="13.00" y="63.5" >example.js`anonymous</text>
+<title>example.js 15:14 anonymous (23 samples, 100.00%)</title><rect x="10.0" y="69" width="1180.0" height="15.0" fill="rgb(237,213,20)" rx="2" ry="2" />
+<text  x="13.00" y="79.5" >example.js 15:14 anonymous</text>
 </g>
 <g >
-<title>example.js`anonymous (1 samples, 100.00%)</title><rect x="10.0" y="37" width="1180.0" height="15.0" fill="rgb(222,29,51)" rx="2" ry="2" />
-<text  x="13.00" y="47.5" >example.js`anonymous</text>
+<title>all (23 samples, 100%)</title><rect x="10.0" y="85" width="1180.0" height="15.0" fill="rgb(206,132,1)" rx="2" ry="2" />
+<text  x="13.00" y="95.5" ></text>
 </g>
 <g >
-<title>all (1 samples, 100%)</title><rect x="10.0" y="69" width="1180.0" height="15.0" fill="rgb(245,174,32)" rx="2" ry="2" />
-<text  x="13.00" y="79.5" ></text>
+<title>example.js 6:12 anonymous (23 samples, 100.00%)</title><rect x="10.0" y="53" width="1180.0" height="15.0" fill="rgb(206,109,37)" rx="2" ry="2" />
+<text  x="13.00" y="63.5" >example.js 6:12 anonymous</text>
+</g>
+<g >
+<title>example.js 1:15 anonymous (22 samples, 95.65%)</title><rect x="61.3" y="37" width="1128.7" height="15.0" fill="rgb(223,175,44)" rx="2" ry="2" />
+<text  x="64.30" y="47.5" >example.js 1:15 anonymous</text>
 </g>
 </g>
 </svg>
