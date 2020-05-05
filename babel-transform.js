@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-const tmp = parser.parse(`window.jsflamegraph("path")("body")`, {
+const tmp = parser.parse(`window.flamegraphjs.collect("path")("body")`, {
     sourceType: "script",
 }).program.body[0].expression;
 

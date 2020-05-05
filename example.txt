@@ -1,0 +1,10 @@
+
+CPU           ID            FUNCTION:NAME
+
+
+
+        example.js`anonymous
+        example.js`anonymous
+        1
+        
+
