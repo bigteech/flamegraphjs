@@ -1,0 +1,4 @@
+var main3 = window.flamegraphjs.collect('example.js')(function main3() {
+    console.log('22l');
+});
+
