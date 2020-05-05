@@ -373,20 +373,24 @@
 <text id="matched" x="1090.00" y="117" > </text>
 <g id="frames">
 <g >
-<title>example.js 15:14 anonymous (23 samples, 100.00%)</title><rect x="10.0" y="69" width="1180.0" height="15.0" fill="rgb(237,213,20)" rx="2" ry="2" />
-<text  x="13.00" y="79.5" >example.js 15:14 anonymous</text>
+<title>example.js 1:15 anonymous (51 samples, 3.06%)</title><rect x="1115.0" y="37" width="36.1" height="15.0" fill="rgb(250,132,38)" rx="2" ry="2" />
+<text  x="1117.97" y="47.5" >exa..</text>
 </g>
 <g >
-<title>all (23 samples, 100%)</title><rect x="10.0" y="85" width="1180.0" height="15.0" fill="rgb(206,132,1)" rx="2" ry="2" />
+<title>example.js 23:14 anonymous (1,667 samples, 100.00%)</title><rect x="10.0" y="69" width="1180.0" height="15.0" fill="rgb(238,133,28)" rx="2" ry="2" />
+<text  x="13.00" y="79.5" >example.js 23:14 anonymous</text>
+</g>
+<g >
+<title>example.js 11:12 anonymous (587 samples, 35.21%)</title><rect x="774.5" y="53" width="415.5" height="15.0" fill="rgb(220,150,3)" rx="2" ry="2" />
+<text  x="777.49" y="63.5" >example.js 11:12 anonymous</text>
+</g>
+<g >
+<title>example.js 4:15 anonymous (55 samples, 3.30%)</title><rect x="1151.1" y="37" width="38.9" height="15.0" fill="rgb(245,214,32)" rx="2" ry="2" />
+<text  x="1154.07" y="47.5" >exa..</text>
+</g>
+<g >
+<title>all (1,667 samples, 100%)</title><rect x="10.0" y="85" width="1180.0" height="15.0" fill="rgb(218,188,4)" rx="2" ry="2" />
 <text  x="13.00" y="95.5" ></text>
-</g>
-<g >
-<title>example.js 6:12 anonymous (23 samples, 100.00%)</title><rect x="10.0" y="53" width="1180.0" height="15.0" fill="rgb(206,109,37)" rx="2" ry="2" />
-<text  x="13.00" y="63.5" >example.js 6:12 anonymous</text>
-</g>
-<g >
-<title>example.js 1:15 anonymous (22 samples, 95.65%)</title><rect x="61.3" y="37" width="1128.7" height="15.0" fill="rgb(223,175,44)" rx="2" ry="2" />
-<text  x="64.30" y="47.5" >example.js 1:15 anonymous</text>
 </g>
 </g>
 </svg>
